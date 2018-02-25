@@ -115,6 +115,8 @@ Place
 
 ## 4. E-R Diagram
 
+![Image](ER_Diagram_Img.png)
+
 ## 5. Conclusion
 
 

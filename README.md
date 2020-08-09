@@ -1,9 +1,4 @@
-# CS353 DATABASE SYSTEMS
-## Group Project Web-Site
-### Group 26 - A
+# CS353 DATABASE SYSTEMS COURSE PROJECT
+## Individual Project
 
-<p> Group Member: </p>
-<p> Furkan Huseyin - 21302659 </p>
-
-# Useful links:
-## [Reports](https://furkanh.github.io/locapp/report)
+This is a check-in website that is written using PHP, SQL, Javascript, HTML, CSS, and Bootstrap. It includes sign up, sign in, post, comment, like, review, and private message features.
